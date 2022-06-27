@@ -16,7 +16,7 @@ msgstr "Materiales de la marca AMP"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
-msgstr "Cachés de AMP y CORS"
+msgstr ""
 
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
